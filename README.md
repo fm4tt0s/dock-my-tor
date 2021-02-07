@@ -10,6 +10,7 @@ docker build -t dock-my-tor .
 ## run
 <pre>
 docker run --name dock-my-tor -p 9100:9100 fm4ttos/dock-my-tor
+</pre>
 
 ## usage 
 
